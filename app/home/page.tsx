@@ -6,7 +6,7 @@ export default function Home() {
       {/* Header Section */}
       <header className="text-center mb-16">
         <h1 className="text-4xl sm:text-6xl font-bold text-gray-800 mb-4">
-          Welcome to My Portofolio
+          Welcome to My Project
         </h1>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
           This is the beginning of something amazing. Explore, learn, and build
@@ -18,7 +18,7 @@ export default function Home() {
       <main className="flex flex-col items-center space-y-12">
         <Image
           className="rounded-lg shadow-md"
-          src="/pioneer.jpg" // Replace with your image
+          src="/hero.jpg" // Replace with your image
           alt="Landing Page Image"
           width={600}
           height={400}
